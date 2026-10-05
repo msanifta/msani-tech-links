@@ -1,1 +1,1 @@
-print("Yello!\nThis is python hello script.")
+print("Hello, World!\nThis is a python hello script.")
