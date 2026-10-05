@@ -1,0 +1,1 @@
+print("Yello!\nThis is python hello script.")
